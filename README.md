@@ -1,1 +1,1 @@
-# Hello-World
+print "Naveen Reddy is smart"
